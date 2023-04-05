@@ -1,22 +1,27 @@
-### Hi there, welcome to my profile :smile:
+### Hey there! I am Alexandre,
 <br>
-My name is Alexandre, I've been passionate about programming since the first time I saw code lines and I enjoy learning more about it every day.
-<br>
-<br>
-I’m currently learning:
-<br>
-<br>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+I've been passionate about programming since the first time I saw code lines and I enjoy learning more about it every day.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlecostaDEV&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlecostaDEV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-How to reach me: @xandcosta91
-<br>
-<br>
-<a href="https://www.instagram.com/xandcosta91">
-<img align="left" alt="icone-instagram" width="22px" src="https://cdn.jsdelvr.net/npm/simple-icons@v3/icons/instagram.svg" />
+##
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecostadev&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecostadev&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="AleC-HTML" height="40" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="AleC-Css" height="40" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="AleC-Js" height="40" width"50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="AleC-React" height="40" width"50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
+          
+ ##
+          
+<div>
+<a href="https://www.instagram.com/xandcosta91" target="_blank"><img align="center" alt="icone-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="mailto:91alecosta@gmail.com" target="_blank"><img align="center" alt="icone-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://web.whatsapp.com/send?phone=5516991731152" target="_blank"><img align="center" alt="icone-whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</div>
+           
+   
