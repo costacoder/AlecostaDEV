@@ -6,8 +6,7 @@ I've been passionate about programming since the first time I saw code lines and
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecostadev&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecostadev&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecostadev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
 
 <div style="display: inline_block"><br>
   <img align="center" alt="AleC-HTML" height="40" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -23,5 +22,5 @@ I've been passionate about programming since the first time I saw code lines and
 <a href="mailto:91alecosta@gmail.com" target="_blank"><img align="center" alt="icone-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a href="https://web.whatsapp.com/send?phone=5516991731152" target="_blank"><img align="center" alt="icone-whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </div>
-           
+        
    
